@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itpoly-web/static/css/main.49faa5e3.css",
+    "main.js": "/itpoly-web/static/js/main.45389b39.js",
+    "index.html": "/itpoly-web/index.html",
+    "main.49faa5e3.css.map": "/itpoly-web/static/css/main.49faa5e3.css.map",
+    "main.45389b39.js.map": "/itpoly-web/static/js/main.45389b39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49faa5e3.css",
+    "static/js/main.45389b39.js"
+  ]
+}
